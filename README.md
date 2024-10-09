@@ -1,2 +1,2 @@
 ## I use Codeberg
-[https://codeberg.org/mm-dev](https://codeberg.org/mm-dev)
+[codeberg.org/mm-dev](https://codeberg.org/mm-dev?tab=activity)
